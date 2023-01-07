@@ -1,0 +1,17 @@
+.list-form{
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:20px;
+    
+    box-shadow: rgba(255, 255, 255, 0.24) 0px 3px 8px;
+}
+.list-parent{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -65px;
+    box-shadow: rgba(255, 255, 255, 0.24) 0px 3px 8px;
+}
